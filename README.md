@@ -1,0 +1,1 @@
+Based on tutorial: https://www.youtube.com/watch?v=iukOehU5aF4, with source code at: https://github.com/CoreyMSchafer/FastAPI-Full-Course/tree/main.
